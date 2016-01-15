@@ -1,0 +1,23 @@
+{
+  "name": "progress-exercises",
+  "version": "0.0.0",
+  "description": "Exercises service for progress database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darragh-hayes/progress-exercises.git"
+  },
+  "author": "Darragh Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darragh-hayes/progress-exercises/issues"
+  },
+  "homepage": "https://github.com/darragh-hayes/progress-exercises",
+  "dependencies" : {
+    "seneca" : "^0.9.3",
+    "seneca-mongo-store": "^0.2.0"
+  }
+}
