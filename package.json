@@ -1,8 +1,8 @@
 {
   "name": "progress-exercises",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Exercises service for progress database",
-  "main": "index.js",
+  "main": "lib/exercises.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
