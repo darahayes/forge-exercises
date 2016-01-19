@@ -7,5 +7,5 @@ seneca.use('mongo-store', {
 	strict:{result:false}
 });
 
-seneca.use('exercises');
+seneca.use('lib/exercises');
 seneca.listen();
