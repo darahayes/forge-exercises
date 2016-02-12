@@ -1,0 +1,5987 @@
+{
+  "resistance": [
+    {
+      "created_by": null,
+      "name": "3/4 Sit-Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Ab Crunch Machine",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Ab Roller",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Advanced Kettlebell Windmill",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Air Bike",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Alternate Hammer Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternate Heel Touchers",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Alternate Incline Dumbbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Cable Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Deltoid Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Floor Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Hang Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Biceps",
+        "Calves",
+        "Forearms",
+        "Glutes",
+        "Lower Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Kettlebell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Kettlebell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Alternating Renegade Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Abdominals",
+        "Biceps",
+        "Chest",
+        "Lats",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Anti-Gravity Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Middle Back",
+        "Traps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Arnold Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Around The Worlds",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Back Flyes - With Bands",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Bands",
+      "tags": [
+        "Middle Back",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Balance Board",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Other",
+      "tags": [
+        "Hamstrings",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Ball Leg Curl",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Exercise Ball",
+      "tags": [
+        "Calves",
+        "Glutes"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Band Assisted Pull-Up",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Abdominals",
+        "Forearms",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Band Hip Adductions",
+      "category": "Resistance",
+      "main_target": "Adductors",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Band Pull Apart",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Bands",
+      "tags": [
+        "Middle Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Band Skull Crusher",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Ab Rollout",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": [
+        "Lower Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Ab Rollout - On Knees",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": [
+        "Lower Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Bench Press - Medium Grip",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Curls Lying Against An Incline",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Deadlift",
+      "category": "Resistance",
+      "main_target": "Lower Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Forearms",
+        "Glutes",
+        "Hamstrings",
+        "Lats",
+        "Middle Back",
+        "Quadriceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Full Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Guillotine Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Hack Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Forearms",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Incline Bench Press - Medium Grip",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Incline Shoulder Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Lunge",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Rear Delt Row",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Rollout from Bench",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Seated Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Shrug",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Shrug Behind The Back",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Side Bend",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": [
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Side Split Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Squat To A Bench",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Step Ups",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Barbell Walking Lunge",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Battling Ropes",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Other",
+      "tags": [
+        "Chest",
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bench Dips",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bench Press - With Bands",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Bands",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over Barbell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over Low-Pulley Side Lateral",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Lower Back",
+        "Middle Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over One-Arm Long Bar Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Lower Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over Two-Arm Long Bar Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over Two-Dumbbell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Over Two-Dumbbell Row With Palms In",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent Press",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Quadriceps",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent-Arm Barbell Pullover",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Lats",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent-Arm Dumbbell Pullover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Lats",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bent-Knee Hip Raise",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Body Tricep Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Body-Up",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bodyweight Flyes",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "E-Z Curl Bar",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bodyweight Mid Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bodyweight Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bodyweight Walking Lunge",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "None",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bosu Ball Cable Crunch With Side Bends",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Bottoms Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Bottoms-Up Clean From The Hang Position",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Biceps",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Box Squat with Chains",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Abductors",
+        "Adductors",
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Bradford/Rocky Presses",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Butt Lift (Bridge)",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Body Only",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Butt-Ups",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Butterfly",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Chest Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Crossover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Deadlifts",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Cable",
+      "tags": [
+        "Forearms",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Hammer Curls - Rope Attachment",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Hip Adduction",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Incline Pushdown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Incline Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Internal Rotation",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Iron Cross",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Judo Flip",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Lying Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable One Arm Tricep Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Preacher Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Rear Delt Fly",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Reverse Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Rope Overhead Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Rope Rear-Delt Rows",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Russian Twists",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Seated Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Seated Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Middle Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cable Shrugs",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cable Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Calf Press",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Calf Press On The Leg Press Machine",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Calf Raise On A Dumbbell",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Calf Raises - With Bands",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Calf-Machine Shoulder Shrug",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Car Drivers",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Chair Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Chin-Up",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Body Only",
+      "tags": [
+        "Biceps",
+        "Forearms",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Clean and Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Abdominals",
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Middle Back",
+        "Quadriceps",
+        "Shoulders",
+        "Traps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Clock Push-Up",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip Barbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip EZ Bar Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip EZ-Bar Curl with Band",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip EZ-Bar Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip Front Lat Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip Push-Up off of a Dumbbell",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Close-Grip Standing Barbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cocoons",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Concentration Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cross Body Hammer Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cross Over - With Bands",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Bands",
+      "tags": [
+        "Biceps",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Cross-Body Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Crunch - Hands Overhead",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Crunch - Legs On Exercise Ball",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Crunches",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Cuban Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dead Bug",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline Barbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Decline Close-Grip Bench To Skull Crusher",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Decline Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline Dumbbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Decline Dumbbell Flyes",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline EZ Bar Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline Oblique Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline Push-Up",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "None",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Decline Reverse Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Decline Smith Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dip Machine",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Machine",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dips - Chest Version",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Other",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dips - Triceps Version",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Donkey Calf Raises",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Double Kettlebell Alternating Hang Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Biceps",
+        "Calves",
+        "Forearms",
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Double Kettlebell Jerk",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Double Kettlebell Push Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Double Kettlebell Snatch",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Double Kettlebell Windmill",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Downward Facing Balance",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Exercise Ball",
+      "tags": [
+        "Abdominals",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Drag Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Alternate Bicep Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Bench Press with Neutral Grip",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Bicep Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Calves",
+        "Forearms",
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Shoulders",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Flyes",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Incline Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps",
+        "Forearms",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Incline Shoulder Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Lunges",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Lying One-Arm Rear Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Lying Pronation",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Lying Rear Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Lying Supination",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell One-Arm Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell One-Arm Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell One-Arm Upright Row",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Prone Incline Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Rear Lunge",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Scaption",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Seated One-Leg Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Shrug",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Side Bend",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Squat To A Bench",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Step Ups",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Dumbbell Tricep Extension -Pronated Grip",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Elbow to Knee",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Elevated Back Lunge",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Elevated Cable Rows",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Middle Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Exercise Ball Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Exercise Ball",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Exercise Ball Pull-In",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Exercise Ball",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Extended Range One-Arm Kettlebell Floor Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "External Rotation",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "External Rotation with Band",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "External Rotation with Cable",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "EZ-Bar Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "EZ-Bar Skullcrusher",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Face Pull",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Finger Curls",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Flat Bench Cable Flyes",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Flat Bench Leg Pull-In",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Flat Bench Lying Leg Raise",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Flexor Incline Dumbbell Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Floor Glute-Ham Raise",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "None",
+      "tags": [
+        "Calves",
+        "Glutes"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Flutter Kicks",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Body Only",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Freehand Jump Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Frog Sit-Ups",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Front Barbell Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Front Barbell Squat To A Bench",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Front Cable Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Front Dumbbell Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Front Incline Dumbbell Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Front Plate Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Front Raise And Pullover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Lats",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Front Squat (Clean Grip)",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Abdominals",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Front Squats With Two Kettlebells",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Front Two-Dumbbell Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Full Range-Of-Motion Lat Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Gironda Sternum Chins",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Glute Kickback",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Body Only",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Goblet Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Gorilla Chin/Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Hack Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Hammer Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Hammer Grip Incline DB Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Handstand Push-Ups",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Body Only",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Hanging Leg Raise",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Hanging Pike",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "High Cable Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Hip Extension with Bands",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Bands",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Hip Flexion with Band",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Hyperextensions (Back Extensions)",
+      "category": "Resistance",
+      "main_target": "Lower Back",
+      "equipment": "Other",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Hyperextensions With No Hyperextension Bench",
+      "category": "Resistance",
+      "main_target": "Lower Back",
+      "equipment": "Body Only",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Barbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Bench Pull",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Cable Chest Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Cable Flye",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Dumbbell Bench With Palms Facing In",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Dumbbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Incline Dumbbell Flyes",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Dumbbell Flyes - With A Twist",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Hammer Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Incline Inner Biceps Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Incline Push-Up",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Push-Up Close-Grip",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Push-Up Medium",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Push-Up Reverse Grip",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Incline Push-Up Wide",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Internal Rotation with Band",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Inverted Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "None",
+      "tags": [
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Inverted Row with Straps",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Iron Cross",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Chest",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Quadriceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Isometric Neck Exercise - Front And Back",
+      "category": "Resistance",
+      "main_target": "Neck",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Isometric Neck Exercise - Sides",
+      "category": "Resistance",
+      "main_target": "Neck",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Isometric Wipers",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Jackknife Sit-Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Janda Sit-Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Jefferson Squats",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "JM Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Arnold Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Dead Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Figure 8",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Hamstrings",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Hang Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Lower Back",
+        "Shoulders",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell One-Legged Deadlift",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Pass Between The Legs",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Pirate Ships",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Abdominals"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Pistol Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Seated Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Seesaw Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Sumo High Pull",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Adductors",
+        "Glutes",
+        "Hamstrings",
+        "Quadriceps",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Thruster",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Turkish Get-Up (Lunge style)",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Abdominals",
+        "Hamstrings",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Turkish Get-Up (Squat style)",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Abdominals",
+        "Calves",
+        "Hamstrings",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kettlebell Windmill",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kipping Muscle Up",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Abdominals",
+        "Biceps",
+        "Forearms",
+        "Middle Back",
+        "Shoulders",
+        "Traps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Knee/Hip Raise On Parallel Bars",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Kneeling Cable Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Kneeling High Pulley Row",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Kneeling Single-Arm High Pulley Row",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Landmine 180's",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": [
+        "Glutes",
+        "Lower Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Landmine Linear Jammer",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Abdominals",
+        "Calves",
+        "Chest",
+        "Hamstrings",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lateral Raise - With Bands",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Leg Extensions",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Leg Lift",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Body Only",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leg Press",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leg Pull-In",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Leg-Over Floor Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Chest Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Deadlift",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Decline Chest Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage High Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Machine",
+      "tags": [
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Incline Chest Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Iso Row",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Machine",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Machine",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Leverage Shrug",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Machine",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "London Bridges",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Forearms",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Low Cable Crossover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Low Cable Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Low Pulley Row To Neck",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lunge Pass Through",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lunge Sprint",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lying Cable Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Cambered Barbell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lying Close-Grip Bar Curl On High Pulley",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Dumbbell Tricep Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lying Face Down Plate Neck Resistance",
+      "category": "Resistance",
+      "main_target": "Neck",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Face Up Plate Neck Resistance",
+      "category": "Resistance",
+      "main_target": "Neck",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying High Bench Barbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Leg Curls",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Machine Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lying One-Arm Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Rear Delt Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying Supine Dumbbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Lying T-Bar Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Machine",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Lying Triceps Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Machine Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Machine Bicep Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Machine Preacher Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Machine Shoulder (Military) Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Machine",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Machine Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Middle Back Shrug",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Mixed Grip Chin",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Monster Walk",
+      "category": "Resistance",
+      "main_target": "Abductors",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Muscle Up",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Abdominals",
+        "Biceps",
+        "Forearms",
+        "Middle Back",
+        "Shoulders",
+        "Traps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Narrow Stance Hack Squats",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Narrow Stance Leg Press",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Narrow Stance Squats",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Natural Glute Ham Raise",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Body Only",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Neck Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Oblique Crunches",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Oblique Crunches - On The Floor",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Chin-Up",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Forearms",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Dumbbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Dumbbell Preacher Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Floor Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Lat Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Pronated Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One Arm Supinated Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One Leg Barbell Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Dumbbell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Flat Bench Dumbbell Flye",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm High-Pulley Cable Side Bends",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Incline Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Lower Back",
+        "Shoulders",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Clean and Jerk",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Floor Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Jerk",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Military Press To The Side",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Para Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Push Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Snatch",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Traps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Split Jerk",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Split Snatch",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Hamstrings",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Kettlebell Swings",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Lower Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Long Bar Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Medicine Ball Slam",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Medicine Ball",
+      "tags": [
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Open Palm Kettlebell Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Forearms",
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Overhead Kettlebell Squats",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Side Deadlift",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Abdominals",
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "One-Arm Side Laterals",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "One-Legged Cable Kickback",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Cable",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Open Palm Kettlebell Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Otis-Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": [
+        "Chest",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Overhead Cable Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Pallof Press",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": [
+        "Chest",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Pallof Press With Rotation",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": [
+        "Chest",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Palms-Down Wrist Curl Over A Bench",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Parallel Bar Dip",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Other",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Physioball Hip Bridge",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Exercise Ball",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Plank",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Plate Pinch",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Plate Twist",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Platform Hamstring Slides",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Other",
+      "tags": [
+        "Glutes"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Plie Dumbbell Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Abdominals",
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Plyo Kettlebell Pushups",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Power Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Forearms",
+        "Glutes",
+        "Lower Back",
+        "Middle Back",
+        "Quadriceps",
+        "Shoulders",
+        "Traps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Power Partials",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Preacher Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Preacher Hammer Dumbbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Press Sit-Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Prone Manual Hamstring",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "None",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Pull Through",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Cable",
+      "tags": [
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Pullups",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Body Only",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Push Up to Side Plank",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Push-Up Wide",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Abdominals",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Push-Ups - Close Triceps Position",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Push-Ups With Feet Elevated",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Push-Ups With Feet On An Exercise Ball",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Exercise Ball",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Pushups",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Pushups (Close and Wide Hand Positions)",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Barbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Barbell Preacher Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Cable Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Flyes",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Flyes With External Rotation",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Grip Bent-Over Rows",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Grip Triceps Pushdown",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Hyperextension",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Machine Flyes",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Plate Curls",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Other",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Reverse Triceps Bench Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Ring Dips",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Other",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Rocking Standing Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Rocky Pull-Ups/Pulldowns",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Romanian Deadlift",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Rope Climb",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Forearms",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Rope Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Rope Straight-Arm Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Russian Twist",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": [
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Scapular Pull-Up",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "None",
+      "tags": [
+        "Lats",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Seated Band Hamstring Curl",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Barbell Military Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Seated Barbell Twist",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Bent-Over Rear Delt Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Cable Rows",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Seated Cable Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Seated Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Close-Grip Concentration Barbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Dumbbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Dumbbell Inner Biceps Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Dumbbell Palms-Down Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Dumbbell Palms-Up Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Seated Flat Bench Leg Pull-In",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Head Harness Neck Resistance",
+      "category": "Resistance",
+      "main_target": "Neck",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Leg Curl",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Leg Tucks",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated One-arm Cable Pulley Rows",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Palm-Up Barbell Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Palms-Down Barbell Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Side Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Triceps Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "See-Saw Press (Alternating Side Press)",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Abdominals",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Shotgun Row",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Shoulder Press - With Bands",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Bands",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Side Bridge",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Side Jackknife",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Side Lateral Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Side Laterals to Front Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Side To Side Chins",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Forearms",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Single Dumbbell Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Single Leg Glute Bridge",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Body Only",
+      "tags": [
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Single-Arm Cable Crossover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Single-Arm Linear Jammer",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Single-Arm Push-Up",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Body Only",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Single-Leg High Box Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Other",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Single-Leg Leg Extension",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Sit-Up",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Sled Overhead Backward Walk",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Other",
+      "tags": [
+        "Calves",
+        "Middle Back",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Sled Overhead Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Sled Reverse Flye",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Sled Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Incline Shoulder Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Chest"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Behind the Back Shrug",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Bent Over Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Machine",
+      "tags": [
+        "Biceps",
+        "Lats",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Close-Grip Bench Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Machine",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Decline Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Hang Power Clean",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Machine",
+      "tags": [
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Shoulders",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Hip Raise",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Incline Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Machine",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Leg Press",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine One-Arm Upright Row",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Machine",
+      "tags": [
+        "Biceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Overhead Shoulder Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Machine",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Pistol Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Reverse Calf Raises",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Stiff-Legged Deadlift",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Machine",
+      "tags": [
+        "Glutes",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Machine Upright Row",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Machine",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Smith Single-Leg Split Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Machine",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Snatch Pull",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Lower Back",
+        "Quadriceps",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Speed Band Overhead Triceps",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Bands",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Speed Squats",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Spell Caster",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Glutes",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Spider Crawl",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": [
+        "Chest",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Spider Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "E-Z Curl Bar",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Split Squat with Dumbbells",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Squat Jerk",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Squat with Plate Movers",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Abductors",
+        "Adductors",
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Squats - With Bands",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Bands",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Alternating Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Barbell Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Barbell Press Behind Neck",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Biceps Cable Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Bradford Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Cable Chest Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Cable Lift",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Cable Wood Chop",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Calf Raises",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Concentration Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Dumbbell Calf Raise",
+      "category": "Resistance",
+      "main_target": "Calves",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Dumbbell Reverse Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Dumbbell Upright Row",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Biceps",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Front Barbell Raise Over Head",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Inner-Biceps Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Leg Curl",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Machine",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Low-Pulley Deltoid Raise",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Cable",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Low-Pulley One-Arm Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Military Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Olympic Plate Hand Squeeze",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Other",
+      "tags": [
+        "Biceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing One-Arm Cable Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing One-Arm Dumbbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Overhead Barbell Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Palm-In One-Arm Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Palms-In Dumbbell Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Rope Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Standing Towel Triceps Extension",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Step-up with Knee Raise",
+      "category": "Resistance",
+      "main_target": "Glutes",
+      "equipment": "Body Only",
+      "tags": [
+        "Hamstrings",
+        "Quadriceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Stiff Leg Barbell Good Morning",
+      "category": "Resistance",
+      "main_target": "Lower Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Stiff-Legged Barbell Deadlift",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Barbell",
+      "tags": [
+        "Glutes",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Stiff-Legged Dumbbell Deadlift",
+      "category": "Resistance",
+      "main_target": "Hamstrings",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Glutes",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Straight Bar Bench Mid Rows",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Straight Raises on Incline Bench",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Straight-Arm Dumbbell Pullover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Lats",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Straight-Arm Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Suspended Fallout",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": [
+        "Chest",
+        "Lower Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Suspended Push-Up",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Other",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Suspended Reverse Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Suspended Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Suspended Split Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Other",
+      "tags": [
+        "Abductors",
+        "Adductors",
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Svend Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Other",
+      "tags": [
+        "Forearms",
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "T-Bar Row with Handle",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Barbell",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Tate Press",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Thigh Abductor",
+      "category": "Resistance",
+      "main_target": "Abductors",
+      "equipment": "Machine",
+      "tags": [
+        "Glutes"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Thigh Adductor",
+      "category": "Resistance",
+      "main_target": "Adductors",
+      "equipment": "Machine",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Trap Bar Deadlift",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Other",
+      "tags": [
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Tricep Dumbbell Kickback",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Triceps Overhead Extension with Rope",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Triceps Pushdown",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Triceps Pushdown - Rope Attachment",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Triceps Pushdown - V-Bar Attachment",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Cable",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Tuck Crunch",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Two-Arm Dumbbell Preacher Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Two-Arm Kettlebell Clean",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back",
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Two-Arm Kettlebell Jerk",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Calves",
+        "Quadriceps",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Two-Arm Kettlebell Military Press",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Two-Arm Kettlebell Row",
+      "category": "Resistance",
+      "main_target": "Middle Back",
+      "equipment": "Kettlebells",
+      "tags": [
+        "Biceps",
+        "Lats"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Underhand Cable Pulldowns",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Upright Barbell Row",
+      "category": "Resistance",
+      "main_target": "Shoulders",
+      "equipment": "Barbell",
+      "tags": [
+        "Traps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Upright Cable Row",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Cable",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Upright Row - With Bands",
+      "category": "Resistance",
+      "main_target": "Traps",
+      "equipment": "Bands",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "V-Bar Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "V-Bar Pullup",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Body Only",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Ball Hyperextension",
+      "category": "Resistance",
+      "main_target": "Lower Back",
+      "equipment": "Exercise Ball",
+      "tags": [
+        "Glutes",
+        "Hamstrings",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Ball Side Bend",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Exercise Ball",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Bench Dip",
+      "category": "Resistance",
+      "main_target": "Triceps",
+      "equipment": "Other",
+      "tags": [
+        "Chest",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Crunches",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Medicine Ball",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Jump Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Pull Ups",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Other",
+      "tags": [
+        "Biceps",
+        "Middle Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Sissy Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Sit-Ups - With Bands",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Other",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Weighted Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Other",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide Stance Barbell Squat",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings",
+        "Lower Back"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Barbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Decline Barbell Bench Press",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Decline Barbell Pullover",
+      "category": "Resistance",
+      "main_target": "Chest",
+      "equipment": "Barbell",
+      "tags": [
+        "Shoulders",
+        "Triceps"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Lat Pulldown",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Pulldown Behind The Neck",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Cable",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Rear Pull-Up",
+      "category": "Resistance",
+      "main_target": "Lats",
+      "equipment": "Body Only",
+      "tags": [
+        "Biceps",
+        "Middle Back",
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wide-Grip Standing Barbell Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Wind Sprints",
+      "category": "Resistance",
+      "main_target": "Abdominals",
+      "equipment": "Body Only",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Wrist Roller",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Other",
+      "tags": [
+        "Shoulders"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Wrist Rotations with Straight Bar",
+      "category": "Resistance",
+      "main_target": "Forearms",
+      "equipment": "Barbell",
+      "tags": []
+    },
+    {
+      "created_by": null,
+      "name": "Zercher Squats",
+      "category": "Resistance",
+      "main_target": "Quadriceps",
+      "equipment": "Barbell",
+      "tags": [
+        "Calves",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Zottman Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    },
+    {
+      "created_by": null,
+      "name": "Zottman Preacher Curl",
+      "category": "Resistance",
+      "main_target": "Biceps",
+      "equipment": "Dumbbell",
+      "tags": [
+        "Forearms"
+      ]
+    }
+  ],
+  "cardio": [
+    {
+      "created_by": null,
+      "name": "Bicycling",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Bicycling, Stationary",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Elliptical Trainer",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Jogging-Treadmill",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Prowler Sprint",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Recumbent Bike",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Rowing, Stationary",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Running, Treadmill",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Skating",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Stairmaster",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Step Mill",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Trail Running/Walking",
+      "category": "Cardio"
+    },
+    {
+      "created_by": null,
+      "name": "Walking, Treadmill",
+      "category": "Cardio"
+    }
+  ]
+}

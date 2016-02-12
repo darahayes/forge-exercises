@@ -4,7 +4,8 @@
   "description": "Exercises service for progress database",
   "main": "lib/exercises.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "populate": "node db/populate-db.js"
   },
   "repository": {
     "type": "git",
@@ -16,8 +17,11 @@
     "url": "https://github.com/darragh-hayes/progress-exercises/issues"
   },
   "homepage": "https://github.com/darragh-hayes/progress-exercises",
-  "dependencies" : {
-    "seneca" : "^0.9.3",
+  "dependencies": {
+    "seneca": "^0.9.3",
     "seneca-mongo-store": "^0.2.0"
+  },
+  "devDependencies": {
+    "async": "^1.5.2"
   }
 }
