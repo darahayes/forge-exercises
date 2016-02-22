@@ -5,7 +5,8 @@
   "main": "lib/exercises.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "populate": "node db/populate-db.js"
+    "populate": "node db/populate-db.js",
+    "postinstall": "npm run-script populate"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,7 @@
   "homepage": "https://github.com/darragh-hayes/progress-exercises",
   "dependencies": {
     "seneca": "^0.9.3",
-    "seneca-mongo-store": "^0.2.0"
+    "seneca-mongo-store": "darragh-hayes/seneca-mongo-store"
   },
   "devDependencies": {
     "async": "^1.5.2"

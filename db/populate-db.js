@@ -14,17 +14,17 @@ seneca.use('../lib/exercises');
 var tasks = [
 	function remove_existing(cb) {
 		seneca.act({role: 'exercises', cmd: 'remove_exercises', user: null}, function(err) {
-			cb(err, 'Removed all non-user owned exercises');
+			cb(err, 'Removed all non-user owned exercises from exercises database');
 		})
 	},
 	function add_resistance(cb) {
 		async.eachSeries(db.resistance, add_exercise, function(err) {
-			cb(err, 'Resistance exercises added');
+			cb(err, 'Populated Exercises database with resistance exercises');
 		})
 	},
 	function add_cardio(cb) {
 		async.eachSeries(db.cardio, add_exercise, function(err) {
-			cb(err, 'Cardio exercises added');
+			cb(err, 'Populated Exercises database with cardio exercises');
 		})
 	}
 ];
