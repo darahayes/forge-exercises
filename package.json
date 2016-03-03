@@ -1,6 +1,6 @@
 {
   "name": "progress-exercises",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "description": "Exercises service for progress database",
   "main": "lib/exercises.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/darragh-hayes/progress-exercises",
   "dependencies": {
-    "seneca": "^0.9.3",
+    "seneca": "1.3.0",
     "seneca-mongo-store": "darragh-hayes/seneca-mongo-store",
     "async": "^1.5.2"
   },
