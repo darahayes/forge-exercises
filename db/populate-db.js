@@ -1,12 +1,10 @@
 var async = require('async');
 var seneca = require('seneca')();
 var db = require('./db.json');
+var config = require('../config')
 
-seneca.use('mongo-store', {
-	name: 'progress',
-	host: '127.0.0.1',
-	port: 27017
-});
+
+seneca.use('mongo-store', config.mongo);
 //use the actual exercises microservice to populate the database
 seneca.use('../lib/exercises');
 

@@ -5,8 +5,7 @@
   "main": "lib/exercises.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "populate": "node db/populate-db.js",
-    "postinstall": "npm run-script populate"
+    "populate": "node db/populate-db.js"
   },
   "repository": {
     "type": "git",
