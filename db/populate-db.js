@@ -1,34 +1,36 @@
-var async = require('async');
-var seneca = require('seneca')();
-var db = require('./db.json');
-var config = require('../config')
+'use strict';
+
+const Async = require('async');
+const Seneca = require('seneca')();
+const DB = require('./db.json');
+const Config = require('../config')
 
 
-seneca.use('mongo-store', config.mongo);
+Seneca.use('mongo-store', Config.mongo);
 //use the actual exercises microservice to populate the database
-seneca.use('../lib/exercises');
+Seneca.use('../lib/exercises');
 
-//tasks to be run in order to populate the db
-var tasks = [
+//tasks to be run in order to populate the DB
+const tasks = [
 	function remove_existing(cb) {
-		seneca.act({role: 'exercises', cmd: 'remove_exercises', user: null}, function(err) {
+		Seneca.act({role: 'exercises', cmd: 'remove_exercises', user: null}, function(err) {
 			cb(err, 'Removed all non-user owned exercises from exercises database');
 		})
 	},
 	function add_resistance(cb) {
-		async.eachSeries(db.resistance, add_exercise, function(err) {
+		Async.eachSeries(DB.resistance, add_exercise, function(err) {
 			cb(err, 'Populated Exercises database with resistance exercises');
 		})
 	},
 	function add_cardio(cb) {
-		async.eachSeries(db.cardio, add_exercise, function(err) {
+		Async.eachSeries(DB.cardio, add_exercise, function(err) {
 			cb(err, 'Populated Exercises database with cardio exercises');
 		})
 	}
 ];
 
 function add_exercise(ex, next) {
-	seneca.act(generate_msg(ex), next);
+	Seneca.act(generate_msg(ex), next);
 }
 
 function generate_msg(ex) {
@@ -55,10 +57,10 @@ function generate_msg(ex) {
 	}
 }
 
-//once seneca is loaded run the tasks
-seneca.ready(function() {
+//once Seneca is loaded run the tasks
+Seneca.ready(() => {
 
-	async.series(tasks, done);
+	Async.series(tasks, done);
 
 	function done(err, results) {
 		if (err) { throw err; }

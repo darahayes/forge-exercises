@@ -1,7 +1,8 @@
-var config = require('./config')
-var seneca = require('seneca')();
+'use strict'
+const Config = require('./config');
+const Seneca = require('seneca')();
 
-seneca.use('mongo-store', config.mongo);
+Seneca.use('mongo-store', Config.mongo);
 
-seneca.use(require('./lib/exercises'));
-seneca.listen(config.service);
+Seneca.use(require('./lib/exercises'));
+Seneca.listen(Config.service);
