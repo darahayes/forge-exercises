@@ -1,7 +1,7 @@
 {
-  "name": "progress-exercises",
+  "name": "forge-exercises",
   "version": "0.2.1",
-  "description": "Exercises service for progress database",
+  "description": "Exercises service for the Forge app",
   "main": "lib/exercises.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darragh-hayes/progress-exercises.git"
+    "url": "https://github.com/darragh-hayes/forge-exercises.git"
   },
   "author": "Darragh Hayes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darragh-hayes/progress-exercises/issues"
+    "url": "https://github.com/darragh-hayes/forge-exercises/issues"
   },
-  "homepage": "https://github.com/darragh-hayes/progress-exercises",
+  "homepage": "https://github.com/darragh-hayes/forge-exercises",
   "dependencies": {
     "seneca": "1.3.0",
     "seneca-mongo-store": "darragh-hayes/seneca-mongo-store",
