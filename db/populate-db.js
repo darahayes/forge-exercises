@@ -21,11 +21,6 @@ const tasks = [
 		Async.eachSeries(DB.resistance, add_exercise, function(err) {
 			cb(err, 'Populated Exercises database with resistance exercises');
 		})
-	},
-	function add_cardio(cb) {
-		Async.eachSeries(DB.cardio, add_exercise, function(err) {
-			cb(err, 'Populated Exercises database with cardio exercises');
-		})
 	}
 ];
 
@@ -34,27 +29,16 @@ function add_exercise(ex, next) {
 }
 
 function generate_msg(ex) {
-	if (ex.category === 'Resistance') {
-		return {
-			role: 'exercises',
-			cmd: 'save',
-			name: ex.name,
-			category: ex.category,
-			tags: ex.tags,
-			created_by: null,
-			main_target: ex.main_target,
-			equipment: ex.equipment
-		};
-	}
-	else if (ex.category === 'Cardio') {
-		return {
-			role: 'exercises',
-			cmd: 'save',
-			name: ex.name,
-			category: ex.category,
-			created_by: null,
-		};
-	}
+	return {
+		role: 'exercises',
+		cmd: 'save',
+		name: ex.name,
+		category: ex.category,
+		tags: ex.tags,
+		created_by: null,
+		main_target: ex.main_target,
+		equipment: ex.equipment
+	};
 }
 
 //once Seneca is loaded run the tasks
